@@ -1,2 +1,5 @@
-# Awesome-sunrin
+# Awesome Sunrin
 선린 생활과 관련이 0.1이라도 있는 모든 레포/링크의 큐레이티드 리스트
+
+## 기여하고 싶다구요?
+fork해서 좋은 링크를 pull request 해주시면 검토후 추가하겠습니다!

@@ -3,6 +3,7 @@
 
 ## 학교 생할
 선린 홈페이지 : [sunrint.hs.kr](sunrin.life)
+
 선린 홈페이지 life 도메인 : [sunrin.life](sunrin.life)
 
 ## 교내 대회

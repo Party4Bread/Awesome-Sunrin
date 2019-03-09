@@ -6,6 +6,8 @@
 
 선린 홈페이지 life 도메인 : [sunrin.life](http://sunrin.life)
 
+선린위키 : [sunrinwiki.layer7.kr](http://sunrinwiki.layer7.kr)
+
 ## 교내 대회
 선린 해커톤 : [sunr.in](sunr.in)
 

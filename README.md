@@ -26,7 +26,7 @@
 
 네퓨즈 : [nefus.kr](http://nefus.kr)
 
-팀로그: [teamlog.kr](http://teamlog.kr)
+팀로그 : [teamlog.kr](http://teamlog.kr)
 
 ### 일반
 

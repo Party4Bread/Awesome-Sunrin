@@ -9,7 +9,7 @@
 선린위키 : [sunrinwiki.layer7.kr](http://sunrinwiki.layer7.kr)
 
 ## 교내 대회
-선린 해커톤 : [sunr.in](sunr.in)
+선린 해커톤 : [sunr.in](http://sunr.in)
 
 ## 기여하고 싶다구요?
 fork해서 좋은 링크를 pull request 해주시면 검토후 추가하겠습니다!

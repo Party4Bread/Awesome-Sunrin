@@ -9,7 +9,22 @@
 선린위키 : [sunrinwiki.layer7.kr](http://sunrinwiki.layer7.kr)
 
 ## 교내 대회
-선린 해커톤 : [sunr.in](sunr.in)
+선린 해커톤 : [sunr.in](http://sunr.in)
+
+## 동아리 홈페이지
+
+### IT경영과
+
+### 멀티미디어과
+
+### 소프트웨어과
+
+### 정보보안과
+유니폭스 : [unifox.kr](http://unifox.kr)
+
+### 일반
+
+## 레포
 
 ## 기여하고 싶다구요?
 fork해서 좋은 링크를 pull request 해주시면 검토후 추가하겠습니다!

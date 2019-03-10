@@ -20,7 +20,13 @@
 ### 소프트웨어과
 
 ### 정보보안과
+레이어7 : [layer7.kr](http://layer7.kr)
+
 유니폭스 : [unifox.kr](http://unifox.kr)
+
+네퓨즈 : [nefus.kr](http://nefus.kr)
+
+팀로그 : [teamlog.kr](http://teamlog.kr)
 
 ### 일반
 

@@ -13,20 +13,20 @@
 
 ## 동아리 홈페이지
 
-### IT경영과
+### 정보보호과
+Layer7 : [layer7.kr](http://layer7.kr)
 
-### 멀티미디어과
+Unifox : [unifox.kr](http://unifox.kr)
+
+Nefus : [nefus.kr](http://nefus.kr)
+
+TeamLog : [teamlog.kr](http://teamlog.kr)
 
 ### 소프트웨어과
 
-### 정보보호과
-레이어7 : [layer7.kr](http://layer7.kr)
+### IT경영과
 
-유니폭스 : [unifox.kr](http://unifox.kr)
-
-네퓨즈 : [nefus.kr](http://nefus.kr)
-
-팀로그 : [teamlog.kr](http://teamlog.kr)
+### 멀티미디어과
 
 ### 일반
 

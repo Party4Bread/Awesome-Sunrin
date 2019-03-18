@@ -19,7 +19,7 @@
 
 ### 소프트웨어과
 
-### 정보보안과
+### 정보보호과
 레이어7 : [layer7.kr](http://layer7.kr)
 
 유니폭스 : [unifox.kr](http://unifox.kr)
@@ -29,6 +29,20 @@
 팀로그 : [teamlog.kr](http://teamlog.kr)
 
 ### 일반
+
+## 너의 전공 실력 향상을 위하여
+
+### 정보보호과
+
+### 소프트웨어과
+전공 과목 정리 [SunrinSoftwareCheatSheet](https://github.com/justiceHui/SunrinSoftwareCheatSheet)
+
+### IT경영과
+
+### 멀티미디어과
+
+### 공통
+선린 구름 : [goorm.sunrin.life](http://goorm.sunrin.life)
 
 ## 레포
 

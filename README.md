@@ -11,6 +11,8 @@
 ## 교내 대회
 선린 해커톤 : [sunr.in](http://sunr.in)
 
+교내 알고리즘 대회 기출 문제 : [icpc.me/sunrin](http://icpc.me/sunrin)
+
 ## 동아리 홈페이지
 
 ### 정보보호과
@@ -23,6 +25,17 @@ Nefus : [nefus.kr](http://nefus.kr)
 TeamLog : [teamlog.kr](http://teamlog.kr)
 
 ### 소프트웨어과
+EDCAN : [edcan.kr](https://edcan.kr/)
+
+App:ple Pi : [apppleipe.kr](https://appplepie.kr/)
+
+RG : [sunrin-rg.github.io](https://sunrin-rg.github.io/)
+
+zer0pen : [zer0pen.kr](https://zer0pen.kr/)
+
+AnA : [blog.naver.com/sunrin_ana](https://blog.naver.com/sunrin_ana)
+
+IWOP : [iwop.github.io](https://iwop.github.io/)
 
 ### IT경영과
 
@@ -42,7 +55,7 @@ TeamLog : [teamlog.kr](http://teamlog.kr)
 ### 멀티미디어과
 
 ### 공통
-선린 구름 : [goorm.sunrin.life](http://goorm.sunrin.life)
+선린 구름 : [sunrint-hs.goorm.io](https://sunrint-hs.goorm.io/)
 
 ## 레포
 
